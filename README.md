@@ -9,6 +9,10 @@ https://www.kancloud.cn/cloud001/golang
 
 https://learnku.com/docs/effective-go/2020
 
+## Go 语言精进之路
+
+https://golang-minibear2333.github.io/
+
 ## Go 语言设计与实现
 
 https://draveness.me/golang/docs/
