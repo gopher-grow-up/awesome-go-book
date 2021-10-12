@@ -53,5 +53,9 @@ https://github.com/hyper0x/go_command_tutorial
 
 https://learnku.com/docs/go-blog/modules2019/6489
 
+## Go语法树入门
+
+https://github.com/chai2010/go-ast-book
+
 ## Go2编程指南
 https://chai2010.cn/go2-book/
