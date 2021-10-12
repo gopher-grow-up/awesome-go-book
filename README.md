@@ -1,6 +1,10 @@
 # awesome-go-book
 Go相关书籍
 
+## Go语言圣经（中文版）
+
+https://docs.hacknode.org/gopl-zh/index.html
+
 ## learngo
 
 https://github.com/inancgumus/learngo
@@ -49,4 +53,5 @@ https://github.com/hyper0x/go_command_tutorial
 
 https://learnku.com/docs/go-blog/modules2019/6489
 
-
+## Go2编程指南
+https://chai2010.cn/go2-book/
